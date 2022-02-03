@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://singapore-kamis-kliwon.github.io/top-4/sitemap.xml
